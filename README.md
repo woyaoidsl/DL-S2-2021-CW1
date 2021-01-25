@@ -22,21 +22,23 @@ Write readable code. While we do not expect you to follow PEP8 to the letter, th
 
 You will see <html>\\pagebreak</html> at the start of each subquestion.  ***Do not remove these, if you do we will not be able to mark your coursework.***
 
-### SUBMISSION Mechanics
+### SUBMISSION Process
 This assignment will account for 20% of your final mark. We ask you to submit answers to all questions.
 
-You will submit a PDF of your Notebook, and the Notebook itself.  Your grade will be based on the PDF, we will only use the Notebook if we need to see details.  **You must use the following procedure to create the materials to submit**.
+You will submit a PDF of your Notebook, and the Notebook itself.  Your grade will be based on the PDF, we will only use the Notebook if we need to see details.  **You must use the following procedure to create the materials to submit and then submit them**.
 
-1. Make sure your Notebook and the datasets are in Noteable and will run.  If you developed your answers in Noteable, this is already done.
+1. Make sure your Notebook and the datasets are in Noteable and will run.  If you developed your answers in Noteable, this is already done.  If you developed your answers in your own environment, you will need to uploading your Notebook  to Noteable and make sure it runs ok.
 
-2. Select **Kernel->Restart & Run All** to create a clean copy of your submission, this will run the cells in order from top to bottom.  This may take a while (minutes) to complete, ensure that all the output and plots have complete before you proceed.
+2. Select **Kernel->Restart & Run All** to create a clean copy of your submission, this will run the cells in order from top to bottom.  This may take a while (minutes) to complete, ensure that all the output and plots have completed before you proceed by waiting for the last cell's banner message to be printed.
 
 3. Select **File->Download as->PDF via LaTeX (.pdf)** and wait for the PDF to be created and downloaded.
 
 4. Select **File->Download as->Notebook (.ipynb)**
 
-5. You now should have in your download folder the pdf and the notebook.
+5. You now should have in your download folder the pdf and the notebook.  Rename them ***sNNNNNNN.pdf*** and ***sNNNNNNN.ipynb***, where sNNNNNNN is your matriculation number (student number), e.g. s1234567.
 
-**Submission of these two files will be made on Learn, details will be announced and documented on Learn well before the deadline**. 
+6. Now submit **the PDF** to Gradescope on Learn.  There is video guidance on Learn (***Assessment->Assignment Submission***) on how to do this.  It is **very important** that during Gradescope submission you **indicate which pages of your PDF correspod to which of the questions** - the video gives guidance on this, you can tick multiple pages for each question.
+
+7. Finally submit the Notebook itself (named as indicated in **5** above) to Learn.  You do this at ***Assessment->Assignment Submission->Assignment 1 - Submit your Notebook***
 
 The submission deadline for this assignment is **9th February 2021 at 16:00 UK time (UTC)**.  Don't leave it to the last minute!
