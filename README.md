@@ -6,7 +6,14 @@
 
 #### It is important that you follow the instructions below carefully for things to work properly.
 
-You need to set up and activate your environment as you would do for your labs, see Learn section on Labs.  **You will need to use Noteable to create one of the files you will submit (the PDF)**.  Do **NOT** create the PDF in some other way, we will not be able to mark it.  If you want to develop your answers in your own environment, you should make sure you are using the same packages we are using, by running the cell which does imports below.
+You need to set up and activate your environment as you would do for your labs, see Learn section on Labs.  In brief:
+1. Log into the Noteable and start or reconnect to a Standard Notebook.
+2. Cick on the "+GitRepo" button, then copy this link, https://github.com/uoe-iaml/DL-S2-2021-CW1, to the "Git Repository URL" box in the dialog.
+3. Replace "master" with "main" in the "branch" box in the dialog.
+4. Click on "clone" to import all the lab materials to your Noteable space.
+5. Click on **IAML-20-21-S2-DL-CW1.ipynb** to start up the assignment Notebook.
+
+**You will need to use Noteable to create one of the files you will submit (the PDF)**.  Do **NOT** create the PDF in some other way, we will not be able to mark it.  If you want to develop your answers in your own environment, you should make sure you are using the same packages we are using, by running the cell which does imports below.
 
 Read the instructions in this notebook carefully, especially where asked to name variables with a specific name. Wherever you are required to produce code you should use code cells, otherwise you should use markdown cells to report results and explain answers. In most cases we indicate the nature of answer we are expecting (code/text), and also provide the required code/markdown cell.
 
